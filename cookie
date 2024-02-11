@@ -1,1 +1,54 @@
-_gid=GA1.2.959153289.1699378373; koa:sess=eyJ1c2VySWQiOjE5ODYyNCwiX2V4cGlyZSI6MTcyNTI5ODUzMzE5OSwiX21heEFnZSI6MjU5MjAwMDAwMDB9; koa:sess.sig=vZgliwjyX715iZnHkU8olOA0GmQ; _ga=GA1.2.2046672515.1699378373; _gat_gtag_UA_104464600_2=1; _ga_CZFVKMNT9J=GS1.1.1699378372.1.1.1699378548.0.0.0
+[
+    {
+        "domain": "glados.rocks",
+        "expirationDate": 1723907048.519895,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "koa:sess.sig",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "yU-qDUo5KjqH4NaWrS0Ji6bALVo"
+    },
+    {
+        "domain": ".glados.rocks",
+        "expirationDate": 1742238854.140192,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_CZFVKMNT9J",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS1.1.1707678810.9.1.1707678854.0.0.0"
+    },
+    {
+        "domain": ".glados.rocks",
+        "expirationDate": 1742238854.137693,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.806839031.1679740836"
+    },
+    {
+        "domain": "glados.rocks",
+        "expirationDate": 1723907048.519599,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "koa:sess",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJ1c2VySWQiOjM4NDM5NywiX2V4cGlyZSI6MTcyMzkwNzA0ODQ0MCwiX21heEFnZSI6MjU5MjAwMDAwMDB9"
+    }
+]
